@@ -7,11 +7,11 @@ This is for NT@C Engineering Capstone students.  It inscludes instructions and e
 
 Create a table of contents for your readers.  These can link to lowe places on this page, or to specific folders or documents in the repository.
 
-1. [Initial Set-Up](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#initial-set-up)
+* [Initial Set-Up](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#initial-set-up)
 
-1. [Basic Guidelines](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#basic-guidelines)
+* [Basic Guidelines](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#basic-guidelines)
 
-1. 
+*  
 
 
 ## Initial Set-Up
