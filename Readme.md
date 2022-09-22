@@ -24,8 +24,8 @@ Create a table of contents for your readers.  These can link to lowe places on t
 
 1. When finished, go to the bottom of the page and click "Commit Changes"
 
-Markdown Syntax resources: [Cheat Sheet](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#basic-guidelines), [Detailed Guide](https://www.markdownguide.org/basic-syntax/).
- 
+Markdown Syntax resources: [Cheat Sheet](https://github.com/tchapi/markdown-cheatsheet), [Detailed Guide](https://www.markdownguide.org/basic-syntax/).
+
 
 ## Basic Guidelines
 
