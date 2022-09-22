@@ -1,6 +1,6 @@
 # Capstone Documentation
 
-This is for NT@C Engineering Capstone students.  It inscludes instructions and examples for how to set up their project documentation and presentation.
+This is for NT@C Engineering Capstone students.  It includes instructions and examples for how to set up their project documentation and presentation.
 
 
 ## Contents and Links
@@ -27,9 +27,16 @@ Markdown Syntax resources: [Cheat Sheet](https://github.com/tchapi/markdown-chea
 
 ## Basic Guidelines
 
-This repository is essentially your version of the research paper in a normal capston.  So here's a few guidelines.
+This repository is essentially your version of the research paper in a normal capstone.  So here's a few guidelines.
 
-* This must be well written and laid out.  We don't need perfect flowing prose, but it should be clean and free of gramatical errors.
-* Keep formatting consistent.
+* Think of your repository as a publishable document that is how you will pass if you're unable to present.
+
+* This should house <ins>all</ins> aspects of your project.
+
+* This must be well written and laid out.  We don't need perfect flowing prose, but it should be clean and free of grammatical errors.  Copy and paste into a Google Doc to check spelling.
+
+* Keep all formatting consistent.
+
 * You should have links to important parts of the repository.  Don't make the reader hunt for information.
+
 * Images and diagrams are not required, but they do add to the overall user experience.
