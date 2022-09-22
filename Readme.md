@@ -41,6 +41,8 @@ This repository is essentially your version of the research paper in a normal ca
 
 * Keep all formatting consistent.
 
+* All file and folder names should be descriptive.
+
 * You should have links to important parts of the repository.  Don't make the reader hunt for information.
 
 * Images and diagrams are not required, but they do add to the overall user experience.
