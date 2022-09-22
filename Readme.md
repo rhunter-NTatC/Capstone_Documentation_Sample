@@ -16,13 +16,13 @@ Create a table of contents for your readers.  These can link to lowe places on t
 
 ## Initial Set-Up
 
-1.  Go to your github page and create a new repository.  Use a name appropriate for your project.
+1. Go to your github page and create a new repository.  Use a name appropriate for your project.
 
-1.  In the repository's root folder, create a new file called "Readme.md"
+1. In the repository's root folder, create a new file called "Readme.md"
     Add a title.
     When finished, go to the bottom of the page and click "Commit Changes".
   
-1.  In the repository's root folder, create a new file called "LICENSE"
+1. In the repository's root folder, create a new file called "LICENSE"
     You may paste the exact text from this repository's license.  Just change the date and username.
     When finished, go to the bottom of the page and click "Commit Changes".
 
