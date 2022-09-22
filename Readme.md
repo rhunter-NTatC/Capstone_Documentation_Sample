@@ -47,4 +47,4 @@ This repository is essentially your version of the research paper in a normal ca
 
 * Images and diagrams are not required, but they do add to the overall user experience.
 
-![](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample/blob/main/pictures/waving-yellow-frog-md.png)
+![Good Luck!](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample/blob/main/pictures/waving-yellow-frog-md.png)
