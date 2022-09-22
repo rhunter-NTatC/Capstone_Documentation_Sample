@@ -18,17 +18,17 @@ Create a table of contents for your readers.  These can link to lowe places on t
 
 1. Go to your github page and create a new repository.  Use a name appropriate for your project.
 
-1. In the repository's root folder, create a new file called "Readme.md"
+2. In the repository's root folder, create a new file called "Readme.md"
 
-  1. Add a title
+    * Add a title
 
-  1. When finished, go to the bottom of the page and click "Commit Changes".
+    * When finished, go to the bottom of the page and click "Commit Changes".
   
-1. In the repository's root folder, create a new file called "LICENSE"  
+3. In the repository's root folder, create a new file called "LICENSE"  
 
-  1. You may paste the exact text from this repository's license.  Just change the date and username.
-  
-  1. When finished, go to the bottom of the page and click "Commit Changes".
+    * You may paste the exact text from this repository's license.  Just change the date and username.
+    
+    * When finished, go to the bottom of the page and click "Commit Changes".
 
 Markdown Syntax resources: [Cheat Sheet](https://github.com/tchapi/markdown-cheatsheet), [Detailed Guide](https://www.markdownguide.org/basic-syntax/).
 
