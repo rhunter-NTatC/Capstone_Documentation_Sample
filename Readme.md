@@ -16,13 +16,15 @@ Create a table of contents for your readers.  These can link to lowe places on t
 
 ## Initial Set-Up
 
-1. In the root folder, create a new file called "Readme.md"
+1. Go to your github page and create a new repository.  Use a name appropriate for your project.
+
+1. In the repository's root folder, create a new file called "Readme.md"
 
 1. Add a title
 
 1. When finished, go to the bottom of the page and click "Commit Changes"
 
-Markdown Syntax can be found [here](https://www.markdownguide.org/basic-syntax/).
+Markdown Syntax resources: [Cheat Sheet](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#basic-guidelines), [Detailed Guide](https://www.markdownguide.org/basic-syntax/).
 
 
 ## Basic Guidelines
