@@ -18,4 +18,4 @@ Create a table of contents for your readers.  These can link to lowe places on t
 
 1. When finished, go to the bottom of the page and click "Commit Changes"
 
-Markdown Syntax can ge found [here](https://www.markdownguide.org/basic-syntax/).
+Markdown Syntax can be found <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">here</a>.
