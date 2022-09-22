@@ -9,7 +9,7 @@ Create a table of contents for your readers.  These can link to lowe places on t
 
 1. [Initial Set-Up](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#initial-set-up)
 
-1. []() 
+1. [Basic Guidelines](https://github.com/rhunter-NTatC/Capstone_Documentation_Sample#basic-guidelines)
 
 
 ## Initial Set-Up
@@ -30,4 +30,4 @@ This repository is essentially your version of the research paper in a normal ca
 * This must be well written and laid out.  We don't need perfect flowing prose, but it should be clean and free of gramatical errors.
 * Keep formatting consistent.
 * You should have links to important parts of the repository.  Don't make the reader hunt for information.
-* 
+* Images and diagrams are not required, but they do add to the overall user experience.
